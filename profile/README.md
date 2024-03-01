@@ -1,4 +1,4 @@
-![jeliuc_com_lab_logo](https://github.com/Jeliuc-Labs/.github/assets/6627334/84da72d5-5cbb-4145-a3a7-5b6117213648)
+![jeliuc_com_lab_logo](https://github.com/Jeliuc-Labs/.github/assets/6627334/84da72d5-5cbb-4145-a3a7-5b6117213648 | width=300)
 
 ## Hi! 👋 
 
